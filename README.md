@@ -8,6 +8,8 @@ This project analyzes retail sales performance using Python.
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+- SQL
+- Tableau
 
 ## Key Questions
 - Which region has the highest profit?
