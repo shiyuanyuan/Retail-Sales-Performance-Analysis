@@ -1,4 +1,4 @@
-# retail-sales-analysis
+# Retail Sales Performance Analysis
 
 ## Overview
 This project analyzes retail sales performance using Python.
